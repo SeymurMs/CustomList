@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\CustomLists\CustomLists\bin\Debug\netcoreapp3.1\CustomLists.exe
+C:\Users\Hp\source\repos\CustomLists\CustomLists\bin\Debug\netcoreapp3.1\CustomLists.deps.json
+C:\Users\Hp\source\repos\CustomLists\CustomLists\bin\Debug\netcoreapp3.1\CustomLists.runtimeconfig.json
+C:\Users\Hp\source\repos\CustomLists\CustomLists\bin\Debug\netcoreapp3.1\CustomLists.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\CustomLists\CustomLists\bin\Debug\netcoreapp3.1\CustomLists.dll
+C:\Users\Hp\source\repos\CustomLists\CustomLists\bin\Debug\netcoreapp3.1\CustomLists.pdb
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.dll
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.pdb
+C:\Users\Hp\source\repos\CustomLists\CustomLists\obj\Debug\netcoreapp3.1\CustomLists.genruntimeconfig.cache
